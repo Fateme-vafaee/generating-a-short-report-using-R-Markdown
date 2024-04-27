@@ -28,10 +28,10 @@
     <li>
       <a href="#Description">Description</a>
     </li>
-    <li><a href="#R Markdown Structure">R Markdown Structure</a></li>
-    <li><a href="#Code Functionality">Code Functionality</a></li>
-    <li><a href="#Languages Used">Languages Used</a></li>
-    <li><a href="#Additional Points">Additional Points</a></li>
+    <li><a href="#R_Markdown_Structure">R Markdown Structure</a></li>
+    <li><a href="#Code_Functionality">Code Functionality</a></li>
+    <li><a href="#Languages_Used">Languages Used</a></li>
+    <li><a href="#Additional_Points">Additional Points</a></li>
     <li>
       <a href="#Customization">Customization</a>
     </li>
