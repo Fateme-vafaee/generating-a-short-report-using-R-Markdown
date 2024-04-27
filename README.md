@@ -49,7 +49,7 @@ Running the code downloads data, generates plots, and saves them in a structured
 The markdown text provides context and explanation for each step.
 
 
-### R Markdown Structure
+<h2 id="R_Markdown_Structure" >R Markdown Structure</h2>
 The code consists of three main parts:
 <ol>
   <li>YAML header: This section starts with --- and defines document properties like title, output format (here, PDF document using output: pdf_document).</li>
