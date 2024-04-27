@@ -59,7 +59,7 @@ The code consists of three main parts:
 </li>
 </ol>
 
-### Code Functionality
+<h2 id="Code_Functionality"> Code Functionality</h2>
 
 The R code is divided into two main functions:
 
@@ -88,7 +88,7 @@ The R code is divided into two main functions:
 </ul>
 
 
-### Languages Used
+<h2 id="Languages_Used"> Languages Used</h2>
 
 R Packages 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,7 +97,7 @@ R Packages
 
 
 <!-- GETTING STARTED -->
-### Additional Points
+<h2 id="Additional_Points"> Additional Points</h2>
 <ul>
   <li>The code demonstrates how to integrate R code execution with a human-readable report using R markdown.</li>
   <li>Error handling and more advanced functionalities can be incorporated to enhance the code's robustness.</li>
