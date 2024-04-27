@@ -131,9 +131,6 @@ By following these customization suggestions, users can tailor the R markdown co
 Feel free to tailor the title and description based on the specific features and focus of your tool.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
